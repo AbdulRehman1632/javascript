@@ -1,38 +1,56 @@
+// CALCULATOR
 
-// Q1:Write a script to greet your website visitor using JS alert
-// box.
-
-// alert("hello world")
-
+// let num1 = +prompt("Enter Number 1");
+// let num2 = +prompt("Enter Number 2");
 
 
-// Q2. Write a script to display following message on your web
-// page.
-
-// alert("Sorry!this link is not working.")
+// (1)  "DOCUMENT.WRITE SECTION"
 
 
-
-// Q3. Write a script to display following message on your web
-// page: (Hint : Use line break)
-
-// alert("Welcome to Saylani \n Happy Coding!")
+// Addition of numbers
+// let sum = num1 + num2;
+// document.write("Addition of Numbers  =  ", sum, "<br/>");
 
 
-
-// Q4. Write a script to display following messages in sequence
-
-// alert("welcome to saylani")
-
-// alert("Hello World")
+// // Subtraction of numbers
+// let sub = num1 - num2;
+// document.write("Subtraction of Numbers  =  ", sub, "<br/>");
 
 
-
-// Q5. Generate the following message through browser’s
-// developer console
-
-// console.log("hello world")
+// // Division of numbers
+// let div = num1 / num2;
+// document.write("Division of Numbers  =  ", div, "<br/>");
 
 
+// // Reminder of numbers
+// let rem = num1 % num2;
+// document.write("Reminder of Numbers  =  ", rem, "<br/>");
+
+
+
+
+
+
+// (2) CONSOLE.LOG SECTION 
+
+
+// Addition of numbers
+// let sum = num1 + num2;
+// console.log("Addition of Numbers  =  ", sum);
+
+
+// // Subtraction of numbers
+// let sub = num1 - num2;
+// console.log("Subtraction of Numbers  =  ", sub);
+
+
+// division of numbers
+// let div = num1 / num2;
+// console.log("Division of Numbers  =  ", div);
+
+
+// Reminder of numbers
+// let rem = num1 % num2;
+// console.log("Reminder of Numbers  =  ", rem);
 
 
